@@ -1,0 +1,3 @@
+[submodule "MuscleParamOpt"]
+	path = MuscleParamOpt
+	url = https://github.com/Huawei-UTwente/MuscleParamOpt
